@@ -16,7 +16,7 @@ public class Connect implements CommandExecutor {
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
-		if(! sender.hasPermission("channels.disconnect")) {
+		if(! sender.hasPermission("channels.connect")) {
 			sender.sendMessage("You don't have the permission to execute this command");
 		}
 		
