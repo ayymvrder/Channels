@@ -5,5 +5,5 @@ Consiste en l'implémentation d'un système de canaux pour rendre l'utilisation 
 
 # Utilisation
 Commandes:
-  /connect <channel>: se connecter à un canal
-  /disconnect: se connecter au canal par défaut
+*_/connect <channel>_: se connecter à un canal
+*_/disconnect_: se connecter au canal par défaut
